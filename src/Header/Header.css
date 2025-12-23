@@ -1,0 +1,45 @@
+header {
+    margin-top: 70px;
+}
+
+@media only screen and (max-width: 1200px) {
+    h1 {
+        padding-left: 10px;
+        padding-right: 10px;
+       
+        font-size: 70px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    h1 {
+        padding-left: 20px;
+        padding-right: 20px;
+        
+        font-size:52px;
+      
+    }
+}
+
+@media only screen and (max-width: 768px) {    h1 {
+   
+ 
+    font-size:35px;
+   
+}}
+
+@media screen and (max-width: 576px) {    h1 {
+  
+   
+    font-size:25px;
+    
+}}
+
+@media only screen and (min-width: 1200px) {    h1 {
+    padding-left: 10px;
+    padding-right: 10px;
+ 
+    font-size: 70px;
+    text-align: center;
+}}

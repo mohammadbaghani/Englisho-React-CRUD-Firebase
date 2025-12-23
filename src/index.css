@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: 'Kalame-bold';
+    src: url(../public/fonts/KalamehWeb-Bold.woff) format('woff'),
+        url(../public/fonts/KalamehWeb-Bold.ttf) format('truetype'),
+        url(../public/fonts/KalamehWeb-Bold.woff2) format('woff2');
+
+}
+@font-face {
+    font-family: 'dana-bold';
+    src: url(../public/fonts/reg.woff2) format('woff2'),
+        url(../public/fonts/reg.woff) format('woff'),
+        url(../public/fonts/reg.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Kalame';
+    src: url(../public/fonts/KalamehWeb-Regular.woff) format('woff'),
+        url(../public/fonts/KalamehWeb-Regular.ttf) format('truetype'),
+        url(../public/fonts/KalamehWeb-Regular.woff2) format('woff2');
+
+}
+
+
+
+@font-face {
+    font-family: 'IRY';
+    src: url(../public/fonts/IRY.woff2) format('woff2'),
+        url(../public/fonts/IRY.woff) format('woff'),
+        url(../public/fonts/IRY.ttf) format('truetype'),
+
+}
