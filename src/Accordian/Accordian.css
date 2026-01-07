@@ -1,0 +1,811 @@
+.subtext {
+    font-size: 15px !important;
+    height: 180px;
+    top: -29px;
+    position: relative;
+    left: 20px
+}
+@media only screen and (max-width:1200px) {
+    .circle-border {
+        align-items: center !important;
+        border-radius: 230px;
+        display: flex !important;
+        height: 30px;
+        justify-content: center !important;
+        left: 434px !important;
+        padding-top: 3px;
+        font-size: 23px !important;
+        position: absolute;
+        top: 0px !important;
+        transform: scale(1);
+        width: 30px;
+        background-color: #024877 !important;
+        color: #ffffff !important;
+    }
+    .css-19wkpd7-MuiButtonBase-root-MuiAccordionSummary-root {
+        background-color: transparent !important;
+    }
+    .css-14ueyac,
+    .css-1wh7kkw,
+    .css-m7ku5p-MuiButtonBase-root-MuiAccordionSummary-root {
+        background-color: transparent !important
+    }
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        position: relative !important;
+        top: 20px
+    }
+    .acordian,
+    .acordian__item,
+    .container,
+    .subtext {
+        position: relative
+    }
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root.Mui-expanded:last-of-type {
+        margin-bottom: 0
+    }
+    .subtext {
+        font-size: 15px !important;
+        height: 180px !important;
+        top: -29px;
+        left: 20px;
+        direction: rtl
+    }
+    .container {
+        max-width: 100%;
+        top: 351px
+    }
+    .acordian__item {
+        border-radius: 2px !important;
+        display: flex;
+        overflow: hidden;
+        width: 466px;
+        margin-left: auto;
+        right: -160px;
+        margin-bottom: 5px;
+        z-index: 1;
+        margin-right: auto;
+        top: -1px;
+        height: auto;
+        min-height: 87px;
+        font-size: 45px;
+        display: flex;
+        align-items: center;
+        color: black !important;
+    }
+    .css-1q13jnw-MuiSvgIcon-root {
+        top: 0px !important;
+        flex-shrink: 0;
+        margin-right: -80px;
+    }
+    .acordian,
+    .girl-image {
+        margin-right: auto !important
+    }
+    .acordian {
+        margin-left: auto !important;
+        height: 730px !important;
+        top: -2684px;
+        margin-bottom: 43px;
+
+    }
+
+    .acordian-items,
+    .girl-image {
+        position: absolute;
+        right: 0 !important;
+        left: 0 !important;
+        margin-left: auto !important
+    }
+
+    .girl-image {
+         filter: contrast(130%) hue-rotate(15deg) saturate(95%);     height: 700px !important;
+        right: 100px !important;
+        top: -104px !important;
+        transform: scale(.8);
+        width: 900px !important;
+        z-index: 0;
+    }
+    .acordian-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: -38rem;
+        padding-left: 0;
+        width: 928px;
+        top: 534px;
+        margin-right: auto;
+    }
+    .css-1q13jnw-MuiSvgIcon-root,
+    .font {
+        position: relative;
+        color: #1b1a1a !important
+    }
+    .font {
+        direction: rtl;
+        height: auto !important;
+        width: 457px;
+        font-size: 16px !important;
+        padding-right: 43px;
+        left: 0;
+        color: black !important;
+         font-family: 'IRY' !important;
+        font-weight: 400 !important;
+    }
+    .css-1fx8m19 {
+        color: #fff !important
+    }
+    .css-1q13jnw-MuiSvgIcon-root {
+        opacity: 0;
+        padding-top: 4px !important;
+        top: -5px !important;
+        margin-right: 6px;
+        position: relative;
+    }
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        background-color: transparent !important;
+        color: rgba(255, 255, 255, .87)
+    }
+}
+@media only screen and (max-width:992px) {
+    .acordian-items,
+    .subtext {
+        position: relative;
+        direction: rtl
+    }
+
+    .girl-image {
+        top: -436px !important;
+        width: 400px !important;
+        height: 400px !important;
+        z-index: 3 !important;
+        transform: scale(1.5);
+        right: 200px !important;
+    }
+    .css-14ueyac,
+    .css-1wh7kkw {
+        background-color: transparent !important
+    }
+    .css-1q13jnw-MuiSvgIcon-root {
+        position: relative;
+        margin-right: 9px !important;
+        height: 15px
+    }
+
+    .acordian-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: -164px;
+        padding-left: 0;
+        width: 700px;
+        left: 0px !important;
+        right: 0 !important;
+        left: 0 !important;
+        margin-left: auto !important;
+    }
+    .subtext {
+        height: 180px !important;
+        padding-right: 50px;
+        font-size: 15px !important;
+        top: -29px;
+        left: 55px;
+        width: 390px
+    }
+    .circle-border {
+        position: absolute;
+        top: 0px !important;
+        transform: scale(1);
+        width: 30px;
+    }
+    .acordian__item {
+        left: 0;
+        margin-right: auto;
+        margin-left: auto
+    }
+
+    .acordian__item {
+        width: 538px;
+        top: -491px;
+        right: -59px;
+        z-index: 33333;
+        margin-bottom: 5px;
+    }
+    .acordian {
+        height: 795px !important;
+        padding-bottom: 100px;
+        padding-top: 177px;
+        top: -1433px;
+    }
+
+    .css-x1tti5 {
+        display: none !important;
+        font-size: 2rem;
+        right: -22px !important;
+        position: relative !important;
+        transform: scale(1.2) !important;
+        fill: #101038 !important
+    }
+    .container {
+        max-width: 100%;
+        position: relative;
+        top: 859px
+    }
+}
+@media only screen and (max-width:768px) {
+
+
+
+
+
+
+
+
+
+
+    
+    .css-x1tti5 {
+       display: none !important;
+    }
+    .girl-image {
+        top: -358px !important;
+        transform: scale(1.25);   
+        width: 100% !important;
+        right: -192px !important;
+    }
+    .css-14ueyac,
+    .css-1wh7kkw {
+        background-color: transparent !important
+    }
+    .css-1ljbola-MuiButtonBase-root-MuiAccordionSummary-root {
+        display: inline-flex;
+        position: relative;
+        box-sizing: border-box;
+        border-radius: 0;
+        padding: 0 16px;
+        cursor: pointer;
+        color: inherit;
+        display: flex;
+        min-height: 48px;
+        background-color: rgba(0, 0, 0, .03);
+        flex-direction: row;
+        right: -26px
+    }
+    .acordian-items {
+        margin-right: auto !important;
+        margin-left: auto !important
+    }
+    .acordian-items {
+        display: flex;
+        width: 85% !important;
+        margin-top: -125px;
+        padding-left: 0;
+        position: absolute;
+        direction: rtl;
+        right: 0 !important;
+        left: 0 !important;
+        margin-left: auto !important;
+    }
+    .subtext {
+        font-size: 15px !important;
+        height: 180px;
+        top: -29px;
+        position: relative;
+        left: 58px;
+        direction: rtl
+    }
+    .acordian__item {
+        margin-bottom: 18px;
+        position: relative !important;
+        top: 156px;
+        align-items: center;
+        display: flex;
+        width: 90%
+    }
+    .acordian {
+        width: 88% !important;
+        top: -531px;
+        height: 754px !important;
+    }
+   .subtext {
+        height: 180px !important;
+        padding-right: 50px;
+        font-size: 15px !important;
+        top: -29px;
+        left: 55px;
+        width: 550px;
+    }
+    .css-1q13jnw-MuiSvgIcon-root {
+        font-size: 2rem;
+        right: 32px;
+        position: relative
+    }
+
+
+    .font {
+        direction: rtl;
+        height: auto !important;
+        width: 457px;
+        font-size: 15px !important;
+        padding-right: 43px;
+        left: 0;
+        color: black !important;
+         font-family: 'IRY' !important;
+        font-weight: 400 !important;
+    }
+
+}
+
+@media only screen and (max-width:576px) {
+    .acordian-items,
+    .acordian__item,
+    .valed-parent-border {
+        margin-right: auto !important;
+        margin-left: auto !important
+    }
+
+    .valed-parent-border {
+        top: -3271px !important;
+        position: relative !important;
+        right: 0 !important;
+        left: 0 !important;
+        height: 2000px !important;
+        width: 100% !important
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+        font-size: 2rem;
+        right: -102px;
+        position: relative
+    }
+
+    .css-14ueyac,
+    .css-1wh7kkw {
+        background-color: transparent !important
+    }
+
+    .acordian {
+        display: flex !important;
+        top: 7670px;
+        position: absolute !important;
+        margin-top: 269px;
+        z-index: 2 !important;
+        height: 739px !important;
+        margin-bottom: 62px;
+        width: 100% !important;
+    }
+
+    .girl-image {
+        height: 75% !important;
+        width: 125% !important;
+        display: flex !important;
+        top: -367px !important;
+        transform: scale(1) !important;     
+    }
+
+    .acordian__item,
+    .font {
+        display: flex;
+        z-index: 1 !important
+    }
+
+    .css-1ljbola-MuiButtonBase-root-MuiAccordionSummary-root .MuiAccordionSummary-content {
+        margin-left: -15px !important
+    }
+
+    .acordian__item {
+        right: -35px !important;
+        top: 120px !important;
+        width: 99% !important;
+        position: relative !important;
+        padding-right: 103px !important;
+        font-size: 47px;
+        border-radius: 0px !important;
+        height: 110px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-left: 4px
+    }
+
+    .font,
+    .subtext {
+        font-size: 11px !important
+    }
+
+    .subtext {
+        top: -29px;
+        position: relative;
+        left: 20px;
+        width: 355px !important;
+        right: -54px;
+        direction: rtl
+    }
+
+    .font {
+        direction: rtl !important;
+        left: 45px;
+        width: 311px !important;
+        width: 100%;
+        height: 100%;
+        padding-top: 13px;
+        justify-content: flex-start;
+        padding-right: 40px;
+
+    }
+
+    .acordian-items {
+        direction: rtl;
+        flex-wrap: wrap;
+        left: 0 !important;
+        margin-top: -41rem;
+        width: 100% !important;
+        border-radius: 3px;
+        padding-right: 72px;
+        height: 535px;
+        z-index: 1 !important;
+        margin-bottom: 45px;
+        position: absolute !important;
+        display: flex !important
+    }
+
+    .css-1n11r91 {
+        display: flex;
+        -webkit-box-flex: 1;
+        flex-grow: 1;
+        margin: 3px 0
+    }
+
+    .css-dn63hr .MuiAccordionSummary-content {
+        margin-top: -7px
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .acordian-items {
+        direction: rtl;
+        flex-wrap: wrap;
+        left: 0;
+        width: 333px;     
+        border-radius: 3px;
+        padding-right: 72px;
+        height: 535px;
+        z-index: 1 !important;
+        right: -98px;
+        position: absolute;
+        margin: -39rem auto 24px
+    }
+
+    .acordian,
+    .acordian__item {
+        margin-right: auto;
+        margin-left: auto
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+        fill: #73737a;
+        font-size: 22px !important;
+        right: -312px;
+        position: absolute;
+        top: -11px;
+        transform: scale(.5)
+    }
+
+    .logoimage {
+        color: #fff !important;
+        border-radius: 150px;
+        width: 50px;
+        height: 50px;
+        top: -3px;
+        left: 28px !important;
+        border: 1px solid #fff;
+        opacity: 1;
+        position: absolute;
+        right: 21px;
+        transform: scale(.5)
+    }
+
+    .font {
+        color: #000000 !important;
+        direction: rtl !important;
+        font-size: 9px !important;
+        font-weight: 500;
+        height: 15px;
+        left: 45px;
+        padding-right: 40px;
+        padding-top: 9px;
+        text-align: right;
+        width: 500px;
+        word-spacing: 0.5px;
+        z-index: 1 !important
+    }
+
+    .acordian {
+        font-family: yekan;
+        top: 2844px;     
+        height: 585px !important;
+        width: 152%;
+        z-index: 1;
+        display: block;       
+        right: -25px
+    }
+
+    .acordian__item {
+        overflow-x: hidden !important;
+        width: 102% !important;
+        padding-right: 0;
+        padding-left: 0;
+        position: relative;
+        overflow-y: hidden;
+        height: 6837px;
+        padding-top: 66px
+    }
+}
+
+@media only screen and (min-width:1200px) {
+
+    /* acordian codes started */
+    .container {
+        max-width: 100%
+    }
+
+    .acordian__item {
+        padding-top: 6px;
+        display: flex;
+        left: 0 !important;
+        margin-left: auto !important;
+        position: relative;
+        right: 135px !important;
+        top: -35px;
+        width: 600px;
+        z-index: 2 !important;
+        min-height: 101px !important;
+        color: #020202 !important;
+        overflow: hidden;
+        transform: scale(.91);
+        margin-top: -25px;
+        align-items: center;
+        justify-content: flex-start;
+        max-height: 281px;
+        border-radius: 5px;
+    }
+
+    .acordian {
+        text-align: center;
+        display: flex;
+        padding: 656px 320px 10rem 4px;
+        top: 740px;
+        position: relative;
+        height: 600px;
+        width: 80%;
+        right: 0;
+        background-color: transparent !important;
+        margin: -1171px auto 14px;
+        left: 0;
+        z-index: 345333333;
+    }
+
+    .acordian-items {
+        padding-top: 278px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        position: absolute !important;
+        top: 0px;
+        padding-left: 0;
+        right: -250px !important;
+        left: 0 !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+        width: 900px;
+        border-radius: 4px;
+        height: 800px;
+    }
+
+    /* acordian codes ended */
+
+    /* image and blue shadow  codes started */
+    .acordian-items::after {
+        left: 0 !important;
+        border-radius: 650px;
+        content: "";
+        display: flex;
+        flex-wrap: wrap;
+        height: 800px;
+        justify-content: space-evenly;
+        padding-left: 0;
+        padding-top: 278px;
+        position: absolute !important;
+        right: 395px !important;
+        top: 184px;
+        transform: scale(.45);
+        width: 800px;
+        z-index: -1 !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+        background-color: #96bac5;
+        opacity: 0;
+        filter: contrast(130%) hue-rotate(10deg) saturate(90%);
+    }
+
+    .girl-image {
+        height: 650px !important;
+        left: 0 !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        position: absolute;
+        right: 208px !important;
+        top: 176px !important;
+        transform: scale(.915);
+        width: 900px;
+        filter: contrast(130%) hue-rotate(15deg) saturate(95%);
+    }
+
+    /* image and blue shadow codes ended*/
+
+    /* acordian texts codes started */
+    .font,
+    .subtext {
+        text-align: right;
+        direction: rtl;
+        font-family: dana;
+        font-weight: 500 !important;
+        word-spacing: 0.5px;
+        z-index: 1 !important
+    }
+
+    .font {
+        padding-right: 50px !important;
+        display: flex;
+        align-items: center;
+        width: 656px !important;
+        font-size: 17px !important;
+        margin-left: -119px;
+        font-family: 'IRY' !important;
+        padding-top: 16px;
+        color: #000000 !important;
+        background-color: transparent !important;
+        overflow: hidden;
+        transition: all .1s;
+        font-weight: 500 !important;
+    }
+
+    .s-f {
+             color: #000000 !important;
+    }
+
+    .font:hover {
+        transition: all .3s;
+        color: #021830 !important;
+    }
+
+    .s-f:hover {
+        transition: all .3s;
+        color: #021830 !important;
+    }
+
+    .font:hover .circle-border {
+        transform: rotate(-10deg)scale(1) !important;
+        transition: all .03s;
+        color: #ffffff !important;
+        background-color: #024877 !important;
+    }
+
+    .circle-border {
+        align-items: center !important;
+        background-color: #024877 !important;
+        color: #ffffff !important;
+        border-radius: 230px;
+        display: flex !important;
+        height: 30px;
+        justify-content: center !important;
+        left: 560px !important;
+        padding-top: 3px;
+        font-size: 23px !important;
+        position: absolute;
+        top: 28px !important;
+        transform: scale(1) rotate(10deg) !important;
+        width: 30px;
+        transition: all .3s !important;
+    }
+
+    .subtext {
+        color: #000000 !important;
+        height: 179px !important;
+        width: 540px !important;
+        padding: 4px !important;
+        font-size: 16px !important;
+        right: 0;
+        top: -30px;
+        border-radius: 10px;
+        transition: all .1s;
+        line-height: 40px;
+        margin-top: 16px;
+        margin-top: 16px;
+    }
+
+    .font:hover.subtext {
+        transition: all .1s;
+        color: #000000 !important;
+    }
+
+    .acordian__item:hover .subtext {
+        transition: all .1s;
+        color: #000000 !important;
+        cursor: pointer;
+    }
+
+    /* acordian texts codes ended */
+
+
+    /* acordian mui codes started */
+    .css-14ueyac,
+    .css-1wh7kkw,
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        background-color: transparent !important
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+        font-size: 2rem;
+        position: relative;
+        right: -3px;
+        transform: scale(1);
+        color: transparent !important;
+        font-weight: 400;
+        margin-right: auto
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        position: relative !important;
+        top: -10px !important;
+        color: #160c0c !important
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root.Mui-expanded:last-of-type {
+        height: 300px;
+        width: inherit;
+        background-color: transparent !important
+    }
+
+    .css-14ueyac {
+        flex-direction: row
+    }
+
+    .css-m7ku5p-MuiButtonBase-root-MuiAccordionSummary-root {
+        position: relative;
+        padding: 0 16px;
+        display: flex;
+        min-height: 48px;
+        color: #160c0c !important;
+        background-color: transparent !important;
+    }
+
+    .css-yw020d-MuiAccordionSummary-expandIconWrapper {
+        color: transparent !important;
+        background-color: transparent !important;
+    }
+
+    .css-19wkpd7-MuiButtonBase-root-MuiAccordionSummary-root {
+        background-color: transparent !important;
+    }
+
+    .css-1fx8m19 {
+        color: transparent !important
+    }
+
+    .css-1e6r925 {
+        background-color: transparent !important;
+    }
+
+    /* acordian mui codes ended */
+
+    .css-1vlpd1t.Mui-expanded:last-of-type{
+        background-color: transparent!important;
+    }
+    .css-pwcg7p-MuiCollapse-root {
+        height: auto;
+        overflow: visible;
+        -webkit-transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+        transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+        background-color: transparent!important;
+    }
+}
