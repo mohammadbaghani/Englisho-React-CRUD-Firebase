@@ -14,7 +14,7 @@ Live Demo ⭐ https://englisho.liara.run ⭐
 سایت آموزشگاهی با ری اکت زدم
 <br>
 </br>
-در صفحه ثبت نام , CRUD را با اتصال به دیتابیس فایربیس پیاده سازی کردم
+در صفحه ثبت نام , CRUD را با اتصال به FireBase پیاده سازی کردم
 <br>
 </br>
 لینک پروژه ⭐ https://englisho.liara.run ⭐
