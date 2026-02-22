@@ -11,7 +11,7 @@ React-Icons
 </br>
 Live Demo ⭐ https://englisho.liara.run ⭐ 
 
-سایت آموزشگاهی با ری اکت زدم
+سایت آموزشی زبان با ری اکت زدم
 <br>
 </br>
 در صفحه ثبت نام , CRUD را با اتصال به FireBase پیاده سازی کردم
