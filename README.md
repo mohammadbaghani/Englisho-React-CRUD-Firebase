@@ -1,4 +1,4 @@
-Educational website By React JS with FireBase DataBase and CRUD
+Educational website By React JS with FireBase and CRUD
 <br>
 </br>
 Technologies :
